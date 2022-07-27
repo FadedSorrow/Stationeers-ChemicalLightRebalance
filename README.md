@@ -8,3 +8,6 @@ This repository is used in conjuntion with the BepInEx pluggin / modding framewo
 
 From here you can place the release of this repository, found at https://github.com/FadedSorrow/Stationeers-ChemicalLightRebalance/releases/tag/v0.1.0.0, into the plugins folder and then run the game.  If you modified the BeInEx config to output logging to a console during the install of BepInEx you will be able to see if the mod loaded or not.
 
+## Future plans
+I have a few other ideas I am kicking around, like making them stackable much like flares.
+
