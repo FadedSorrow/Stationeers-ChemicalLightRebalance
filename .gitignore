@@ -1,0 +1,7 @@
+.vs/*
+obj/*
+bin/*
+Libraries/*
+Nuget.Config
+Stationeers-LongChemLight.sln
+Notes.txt
