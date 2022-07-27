@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Stationeers Chemical Light Rebalance</Name>
+  <Author>FadedSorrow</Author>
+  <Version>0.1.0.0</Version>
+  <Description>
+	  Warning: This mod needs to be used in conjunction with BepInEx modding framework found at https://github.com/BepInEx/BepInEx.  You can find further instructions on installing at the project home found below.
+
+	  [b]What does this mod do?[/b]
+	  The idea was to rebalance the chemical lights found in Stationeers.  The vanilla chemical lights are very insufficient and provide very little light.  So, I decided to pack them with a high intensity formula to allow for a longer, brighter burn making them more worthwhile to carry.  Since flashlights can drain your batteries quickly this provides a viable alternative to always using a flash light.
+
+	  [b]Project[/b]
+	  You can follow the project at https://github.com/FadedSorrow/Stationeers-ChemicalLightRebalance
+
+  </Description>
+</ModMetadata>

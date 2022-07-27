@@ -14,14 +14,16 @@ namespace StationeersLongChemLight
             try
             {
                 var harmony = new Harmony("FadedSorrow.Stationeers.Plugins.LongerChemLight");
+                //Annotation patching.
                 harmony.PatchAll();
-                Log("Patcher completed!");
+                Log("Patch completed!");
             } catch (Exception ex)
             {
                 Log($"Patcher failed due to: {ex}");
             }
         }
 
+        //BepInEx log.
         public void Log(string msg)
         {
             Logger.LogInfo($"{msg}");
